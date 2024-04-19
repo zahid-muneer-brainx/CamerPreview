@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CamerPreview</string>
+    <string name="start_capture">Start Recording</string>
+    <string name="stop_capture">Stop Recording</string>
+</resources>
